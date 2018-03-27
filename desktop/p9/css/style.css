@@ -1,0 +1,64 @@
+	span {
+	align-content: right;
+
+	
+}
+	nav a:hover {
+		background: Blue;
+		color: white;
+		border: red;
+		border-radius: 40px;
+	}
+nav ul {
+	list-style: none;
+	padding: 0px;
+	
+}
+
+nav>ul>li {
+	display: inline-block;
+	vertical-align: top;
+	width: 120px;
+}
+
+
+	body {
+		background-color: dodgerblue;
+		padding: 0 auto;
+
+	}
+
+	p1 {
+		background-color: whitesmoke;
+		border: 1px solid black;
+		float: left;
+	}
+
+	/*picture*/
+
+	header {
+		background-color: rgba(0, 255, 0, 0.3);
+	}
+
+	p3 {
+		background-color: whitesmoke;
+		border: 1px solid black;
+		float: left;
+	}
+
+	h1 {
+		color: lightcoral;
+		font-family: sans-serif;
+		padding-left: 200px;
+		text-decoration: underline;
+		float: right;
+	}
+
+	h2 {
+		color: brown;
+		font-family: sans-serif;
+	}
+
+	footer {
+		background-color: rgba(0, 255, 0, 0.3);
+	}

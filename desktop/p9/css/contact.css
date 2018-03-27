@@ -1,0 +1,27 @@
+body {
+	background-image: object-fit: cover;
+}
+
+nav a:hover {
+	background: white;
+	color: black;
+	border: red;
+	border border-radius: 50px;
+}
+
+nav > ul > li {
+	display: inline-block;
+	vertical-align: top;
+	width: 120px;
+	align-content: left;
+}
+
+header {
+	background-color: rgba(0, 255, 0, 0.3);
+	list-style-type: none;
+	align-content: left;
+}
+
+footer {
+	background-color: rgba(0, 255, 0, 0.3)
+}
